@@ -1,5 +1,6 @@
 # __String Multimatching__
 
+
 ## __Input__
 The input (_stringmultimatching.in_) consists of at most ten test cases.  
 Each test case begins with an integer n on a line of its own, indicating the number of patterns. Then follow _n_ lines, each containing a non-empty pattern.  
