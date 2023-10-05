@@ -26,3 +26,4 @@ while keepRunning:
             print("Indexes of occurences: " + str(indexesOfOccurences))
     else:
         keepRunning = False
+ 
